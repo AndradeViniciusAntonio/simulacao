@@ -1,0 +1,4 @@
+Questão numero 1:
+O que é uma Branch?
+Questão numero 2:
+O que é uma merge?
