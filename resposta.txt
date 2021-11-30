@@ -1,0 +1,5 @@
+Resposta 01:
+São ramificações do projeto, servem para separar grandes modificações
+e evitam criar problemas no código principal.
+Resposta 02:
+União de 2 Branch.
